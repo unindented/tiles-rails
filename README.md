@@ -1,6 +1,6 @@
-# Windows 8 Tile Helpers [![Build Status](https://secure.travis-ci.org/unindented/tiles-rails.png)](http://travis-ci.org/unindented/tiles-rails) [![Dependency Status](https://gemnasium.com/unindented/tiles-rails.png)](https://gemnasium.com/unindented/tiles-rails)
+# Windows 8.1 Tile Helpers [![Build Status](https://secure.travis-ci.org/unindented/tiles-rails.png)](http://travis-ci.org/unindented/tiles-rails) [![Dependency Status](https://gemnasium.com/unindented/tiles-rails.png)](https://gemnasium.com/unindented/tiles-rails)
 
-Adds easy defaults for writing Windows 8 tile functionality on top of Rails.
+Adds easy defaults for writing Windows 8.1 tile functionality on top of Rails.
 
 ## Installation
 

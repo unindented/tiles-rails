@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.homepage      = 'https://github.com/unindented/tiles-rails'
   s.license       = 'MIT'
 
-  s.summary       = 'Windows 8 tile helpers for Rails'
-  s.description   = 'Adds easy defaults for writing Windows 8 tile functionality on top of Rails'
+  s.summary       = 'Windows 8.1 tile helpers for Rails'
+  s.description   = 'Adds easy defaults for writing Windows 8.1 tile functionality on top of Rails'
 
   s.files         = `git ls-files`.split($/)
   s.executables   = s.files.grep(%r{^bin/}) { |f| File.basename(f) }
