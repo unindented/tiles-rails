@@ -1,4 +1,4 @@
-# Windows 8.1 Tile Helpers [![Version](https://img.shields.io/gem/v/tiles-rails.svg)](https://rubygems.org/gems/tiles-rails) [![Build Status](https://img.shields.io/travis/unindented/tiles-rails.svg)](http://travis-ci.org/unindented/tiles-rails) [![Dependency Status](https://img.shields.io/gemnasium/unindented/tiles-rails.svg)](https://gemnasium.com/unindented/tiles-rails) ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
+# Windows 8.1 Tile Helpers [![Version](https://img.shields.io/gem/v/tiles-rails.svg)](https://rubygems.org/gems/tiles-rails) [![Build Status](https://img.shields.io/travis/unindented/tiles-rails.svg)](http://travis-ci.org/unindented/tiles-rails) ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
 
 Adds easy defaults for writing Windows 8.1 tile functionality on top of Rails.
 
